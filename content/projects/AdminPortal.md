@@ -1,15 +1,15 @@
 ---
-date: '3'
+date: ''
 title: 'Admin Portal'
-cover: './course-card.png'
+github: ''
 external: ''
-cta: ''
 tech:
   - Angular
   - Node.js
   - Express
   - MySQL
   - Typescript
+showInProjects: true
 ---
 
 - Developed a web application that allows admin to create, edit, delete events and categories
